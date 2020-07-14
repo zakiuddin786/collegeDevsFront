@@ -1,0 +1,1 @@
+export const API="https://collegedevs.azurewebsites.net/api"
